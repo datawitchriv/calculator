@@ -1,8 +1,6 @@
-# calculator
-Basic calculator from a basic programmer
-# 🧮 Calculator
+##🧮 Calculator
 
-A **basic calculator** written in Python by a *basic programmer™*.  
+A basic calculator written in Python by a basic programmer  
 Handles addition, subtraction, multiplication, and division with style.  
 
 ---
